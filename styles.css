@@ -1,9 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Pirata+One&display=swap");
 body {
   background-color: #0a0a23;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: url("images/bg.jpg");
+  background-size: cover;
 }
 
 #text {
-  background-color: #0a0a23;
+  background-color: #4a2c50;
   color: #ffffff;
   padding: 10px;
 }
@@ -13,7 +22,6 @@ body {
   max-height: 400px;
   background-color: #ffffff;
   color: #ffffff;
-  margin: 30px auto 0px;
   padding: 10px;
 }
 
@@ -42,4 +50,12 @@ button {
   background-color: #feac32;
   background-image: linear-gradient(#fecc4c, #ffac33);
   border: 3px solid #feac32;
+}
+
+.gameTitle {
+  color: #0a0a23;
+  font-family: "Pirata One", system-ui;
+  font-size: 35px;
+  text-shadow: #0a0a23 1px 3px 5px;
+  letter-spacing: 1px;
 }
