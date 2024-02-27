@@ -1,1 +1,2 @@
 # Simple-RPG
+"Dragon Repeller" is a text-based RPG (Role-Playing Game) where you must defeat a dragon that is terrorizing a town. The game features various locations to explore, including a town square, a store, and a cave, each with its own set of challenges and rewards. Players can buy items, such as health potions and weapons, and engage in combat with different monsters, including slimes, fanged beasts, and the final boss, the dragon. The game keeps track of your XP, health, and gold, providing a classic RPG experience.
